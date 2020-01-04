@@ -156,6 +156,10 @@ header h2 {
 
 /* Contact Info
 ------------------------------------*/
+.photo:hover {
+  padding: 30px;
+}
+
 footer {
   background: #330C2F;
   color: #B7C0EE;

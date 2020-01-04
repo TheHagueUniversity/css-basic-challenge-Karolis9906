@@ -115,14 +115,29 @@ header h2 {
 .project-item h3 {
   margin-top: 0;
 }
+.projects .towork {
+  color: #7B287D;
+  background: #7067CF;
+  text-decoration: none;
+  padding: 18px;
+  border-radius: 14px;
+  display: inline-block;
+}
 
+.goingb {
+  color: #330C2F;
+  background: #7067CF;
+  text-decoration: none;
+  padding: 18px;
+  border-radius: 14px;
+  display: inline-block;
+}
 
 /* Work Experience
 ------------------------------------*/
 .work-experience {
   background: #330C2F;
 }
-
 
 
 /* Education
